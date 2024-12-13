@@ -1,16 +1,76 @@
-## Hi there 👋
 
-<!--
-**IgorCazale/IgorCazale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=AB20FB&center=true&vCenter=true&width=1000&lines=Welcome+to+my+World!;Hi%2C+I'm+Igor+Cazale!;Computer+Science+Student+%F0%9F%92%BB;Passionate+about+Technology+and+Development!" alt="Typing SVG" /></a>
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td style="border: 0";>
+      <div>
+        <picture>
+          <img src="https://github.com/uPadrin/uPadrin/blob/main/Gengar.gif">
+        <picture>
+      <div>
+    </td>
+    <td style="border: 0" width="450px">
+      <h3>Facts about the person behind the codes:</h3>
+      <ul>
+        <li>
+          🖥  I'm a Computer Science student with a passion for web development and innovative technologies.
+        </li>
+        <li>
+          🌎 20-year-old Brazilian from São Paulo.
+        </li>
+        <li>
+          🎮 I'm also a game enthusiast who loves exploring the creative world of programming.
+        </li>
+        </ul>
+      <h3>Contact me:</h3>
+       <ul>
+        <div align="space-between">
+        <a href="https://www.linkedin.com/in/igor-malveira-cazale-trindade-356b52217?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bpuno6Y0OQFOAHXqfnSxr4Q%3D%3D" target="_blank" rel="noopener noreferrer" text-decoration="none">
+        <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&color=5900ff&logoColor=white"/>
+        </a>
+          <br>
+          <a href=mailto:igor.casale@gmail.com text-decoration="none" target="_blank">
+        <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&color=ab20fb&link=mailto:seu_email" />
+          </a>
+          </ul>
+    </td>
+  </tr>
+</table>
+          <h2 style="text-align:left;">🖥 Tools and technologies:</h2>
+
+
+<div align="left">
+  <h3>Back-End:</h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" title="NodeJs" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" title="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" title="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="40" alt="mysql logo" title="C++" />
+</div>
+
+<div align="left">
+  <h3>Front-End:</h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+  
+</div>
+
+---
+
+### 📫 Contato:
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/igor-cazale" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&color=0A66C2&logoColor=white"/>
+  </a>
+  <a href="mailto:seuemail@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white"/>
+  </a>
+</div>
+
+![Footer](https://github.com/IgorCazale/IgorCazale/blob/main/Footer.png)
