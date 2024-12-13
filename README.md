@@ -60,17 +60,5 @@
   
 </div>
 
----
-
-### 📫 Contato:
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/igor-cazale" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&color=0A66C2&logoColor=white"/>
-  </a>
-  <a href="mailto:seuemail@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white"/>
-  </a>
-</div>
 
 ![Footer](https://github.com/IgorCazale/IgorCazale/blob/main/Footer.png)
