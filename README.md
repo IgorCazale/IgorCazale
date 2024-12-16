@@ -61,5 +61,3 @@
   
 </div>
 
-
-![Footer](https://github.com/IgorCazale/IgorCazale/blob/main/Footer.png)
