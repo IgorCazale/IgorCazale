@@ -8,9 +8,9 @@
   <tr>
     <td style="border: 0";>
       <div>
-        <picture>
+      </picture>
           <img src="https://github.com/IgorCazale/IgorCazale/blob/main/IgorGit.gif">
-        <picture>
+      </picture>
       <div>
     </td>
     <td style="border: 0" width="450px">
