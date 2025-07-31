@@ -77,7 +77,6 @@
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=IgorCazale&show_icons=false&title_color=5900ff&text_color=ab20fb&bg_color=0d0d12&hide_border=true&locale=en&layout=donut"/>     
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IgorCazale&rank_icon=github&include_all_commits=true&show_icons=true&icon_color=FFFFFF&title_color=5900ff&bg_color=0d0d12&text_color=ab20fd&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IgorCazale&layout=donut&cache_bust=1" />
 
 </div>
 
