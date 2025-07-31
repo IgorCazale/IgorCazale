@@ -1,7 +1,3 @@
-vou mandar completo e vc altera, mas as numerações ficam muito estranhas, apareceu py como 98% e o resto com o 0,8% ou coisa assim.
-
-
-
 
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=AB20FB&center=true&vCenter=true&width=1000&lines=Welcome+to+my+World!;Hi%2C+I'm+Igor+Cazale!;Computer+Science+Student+%F0%9F%92%BB;Passionate+about+Technology+and+Development!" alt="Typing SVG" /></a>
